@@ -2,7 +2,7 @@
 <h1>Hi, my name is Alvaro Arauz   👋</h1>
 </div>
 <div>
- <h2>about me</h2>
+ <h2>about me 🤵</h2>
 <p>- Python: 3+ years of experience in automation scripts</p>
 <p>- Data analysis: 3 years of experience in cleaning with pandas and data visualization with libraries such
      as Plotly, Matplotlib and Seaborn, as well as with tools such as Power BI, Tableu and Looker
