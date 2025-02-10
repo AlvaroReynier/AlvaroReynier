@@ -1,7 +1,7 @@
 <div align=center>
 <h1>Hi, my name is Alvaro Arauz   👋</h1>
 </div>
-## 🛠️ Tools
+<h2>🛠️ Tools</h2>h2>
 <p align=center>
  <kbd>
       <kbd>Operating Sytem</kbd>
