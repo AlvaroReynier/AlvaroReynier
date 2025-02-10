@@ -21,7 +21,7 @@
 
 </div>
 
-<h2>🛠️ Tools</h2>
+<h2>Tools 🛠️ </h2>
 <p align=center>
  <kbd>
       <kbd>Operating Sytem</kbd>
