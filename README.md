@@ -1,5 +1,5 @@
 <div align=center>
-## Hi, my name is Alvaro Arauz   👋
+<h1>Hi, my name is Alvaro Arauz   👋</h1>
 </div>
 ## 🛠️ Tools
 <p align=center>
