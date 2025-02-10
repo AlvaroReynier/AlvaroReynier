@@ -21,6 +21,9 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=AlvaroReynier&repo=Process_Natural_Language_Airport_sentiments&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/AlvaroReynier/Process_Natural_Language_Airport_sentiments)
 
 <h4>Data analyze: </h4>
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=AlvaroReynier&repo=Data_analysis-students_data&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/AlvaroReynier/Data_analysis-students_data)
+
 <h4>Web development: </h4>
 
 
