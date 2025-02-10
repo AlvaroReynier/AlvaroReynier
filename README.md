@@ -48,7 +48,7 @@
       <kbd>Database</kbd>
       <br>
       <br>
-      <a href="https://www.mysql.com/" target="_blank"><img width="30px" src="https://en.wikipedia.org/wiki/MySQL#/media/File:MySQL_logo.svg" /></a>
+      <a href="https://www.mysql.com/" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" /></a>
       <a href="https://www.postgresql.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a>
       <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /></a>
     </kbd>
