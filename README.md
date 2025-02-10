@@ -3,16 +3,16 @@
 </div>
 <div>
  <h2>about me</h2>
- - Python: 3+ years of experience in automation scripts
-- Data analysis: 3 years of experience in cleaning with pandas and data visualization with libraries such
- as Plotly, Matplotlib and Seaborn, as well as with tools such as Power BI, Tableu and Looker
- Studio
-- Machine learning and deep learning: 2 years of experience in using libraries such as
- tensorflow, Scikit-learn and Keras, for natural language processing and predictive
- models
-- Web scraping: 1 year of experience with selenium, requests and BeautifulSoup
-- Django: 1 year of experience with Django and Django rest framework
-- Google Cloud: 8 months of BigQuery administration
+<p>- Python: 3+ years of experience in automation scripts</p>
+<p>- Data analysis: 3 years of experience in cleaning with pandas and data visualization with libraries such
+     as Plotly, Matplotlib and Seaborn, as well as with tools such as Power BI, Tableu and Looker
+     Studio</p>
+<p>- Machine learning and deep learning: 2 years of experience in using libraries such as
+     tensorflow, Scikit-learn and Keras, for natural language processing and predictive
+     models </p>
+<p>- Web scraping: 1 year of experience with selenium, requests and BeautifulSoup</p>
+<p>- Django: 1 year of experience with Django and Django rest framework</p>
+<p>- Google Cloud: 8 months of BigQuery administration</p>
 </div>
 <div>
  <h2>projects</h2>
