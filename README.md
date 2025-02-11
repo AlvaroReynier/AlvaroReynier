@@ -16,18 +16,50 @@
 </div>
 <div>
  <h2>projects 💻</h2>
-<h4>Data science: </h4>
+<table>
+<thead>
+  <tr>
+    <th>Data science </th>
+    <th>Ml and Deep learning</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>
+     
+   [![](https://github-readme-stats.vercel.app/api/pin/?username=AlvaroReynier&repo=Process_Natural_Language_Airport_sentiments&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/AlvaroReynier/Process_Natural_Language_Airport_sentiments)
+     
+   </td>
+    <td>
+     
+  [![](https://github-readme-stats.vercel.app/api/pin/?username=AlvaroReynier&repo=Chatbot-mesero&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/AlvaroReynier/Chatbot-mesero)
+     
+   </td> 
+  </tr>
+</tbody>
+<thead>
+    <th>Data analyze</th>
+    <th>Web development</th>
+</thead>
+<tbody>
+  <tr>
+    <td>
+     
+  [![](https://github-readme-stats.vercel.app/api/pin/?username=AlvaroReynier&repo=Data_analysis-students_data&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/AlvaroReynier/Data_analysis-students_data)
+     
+   </td>
+   <td>
+     
+  [![](https://github-readme-stats.vercel.app/api/pin/?username=AlvaroReynier&repo=GYM_project&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://robertsgym-production.up.railway.app/)
+     
+   </td>
+    
+  </tr>
+   
+</tbody>
+</table>
+
  
-[![](https://github-readme-stats.vercel.app/api/pin/?username=AlvaroReynier&repo=Process_Natural_Language_Airport_sentiments&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/AlvaroReynier/Process_Natural_Language_Airport_sentiments)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=AlvaroReynier&repo=Chatbot-mesero&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/AlvaroReynier/Chatbot-mesero)
-
-<h4>Data analyze: </h4>
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=AlvaroReynier&repo=Data_analysis-students_data&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/AlvaroReynier/Data_analysis-students_data)
-
-<h4>Web development: </h4>
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=AlvaroReynier&repo=GYM_project&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://robertsgym-production.up.railway.app/)
 
 </div>
 
