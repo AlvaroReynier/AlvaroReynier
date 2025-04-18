@@ -50,7 +50,7 @@
    </td>
    <td>
      
-  [![](https://github-readme-stats.vercel.app/api/pin/?username=AlvaroReynier&repo=GYM_project&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://robertsgym-production.up.railway.app/)
+  [![](https://github-readme-stats.vercel.app/api/pin/?username=AlvaroReynier&repo=GYM_project&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://robertgym.com)
      
    </td>
     
