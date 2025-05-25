@@ -88,6 +88,14 @@
         <a href="https://html.com/html5/" title="Html" target="_blank"><img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> </a>
         <a href="https://www.markdownguide.org/" title="Markdown" target="_blank"><img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></a>
     </kbd>
+    <kbd>
+      <kbd>Terminal Scripts</kbd>
+      <br>
+      <br>
+        <a href="https://www.gnu.org/software/bash/" title="Bash" target="_blank"><img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" /></a>
+        <a href="https://learn.microsoft.com/en-us/powershell/" title="Powershell" target="_blank"><img width="55px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" /></a>
+    </kbd>
+    <kbd>
       <br>
     <kbd>
       <kbd>Data Science & AI</kbd>
@@ -138,14 +146,6 @@
       <a href="https://www.mongodb.com" title="Mongodb" target="_blank"><img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /></a>
       <a href="https://redis.io" title="Redis" target="_blank"><img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain.svg" /></a>
     </kbd>
-    <kbd>
-      <kbd>Terminal Scripts</kbd>
-      <br>
-      <br>
-        <a href="https://www.gnu.org/software/bash/" title="Bash" target="_blank"><img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" /></a>
-        <a href="https://learn.microsoft.com/en-us/powershell/" title="Powershell" target="_blank"><img width="55px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" /></a>
-    </kbd>
-    <kbd>
       <kbd>Testing Tools</kbd>
       <br>
       <br>
