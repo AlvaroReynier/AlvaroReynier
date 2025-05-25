@@ -80,7 +80,7 @@
       <kbd>Programming and Markup Languages</kbd>
       <br>
       <br>
-        <a href="https://www.python.org/" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
+        <a href="https://www.python.org/" title="Python" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
         <a href="https://www.r-project.org/" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" /></a>
         <a href="https://www.cprogramming.com/" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></a>
         <a href="https://www.java.com/en/" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /></a>
