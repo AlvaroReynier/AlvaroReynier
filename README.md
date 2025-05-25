@@ -151,7 +151,7 @@
       <br>
       <a href="https://docs.pytest.org/en/stable/" title="Pytest" target="_blank"><img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" /></a>
       <a href="https://www.selenium.dev" title="Selenium" target="_blank"><img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" /></a>
-      <a href="https://www.postman.com" title="Postman" target="_blank"><img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
+      <a href="https://www.postman.com" title="Postman" target="_blank"><img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" /></a>
 </kbd>
 <kbd>
       <kbd>CI/CD</kbd>
@@ -159,8 +159,6 @@
       <br>
       <a href="https://docs.github.com/en/actions" title="Github actions" target="_blank"><img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" /></a>
 </kbd>
-
-
 </p>
 
 <br/>
