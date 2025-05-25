@@ -1,4 +1,4 @@
-<section background-color=#222>
+<section color=45,fc00ff,00dbde>
 <div align=center>
 <h1>I'am Alvaro Reynier Arauz   👋</h1>
 </div>
