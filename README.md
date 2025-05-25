@@ -105,6 +105,7 @@
       <br>
       <br>
         <a href="https://www.djangoproject.com/" title="Django" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /></a> 
+        <a href="https://www.django-rest-framework.org" title="Djangorest" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/djangorest/djangorest-original.svg" /></a>
         <a href="https://flask.palletsprojects.com/en/stable/" title="Flask" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /></a> 
         <a href="https://fastapi.tiangolo.com" title="Fastapi" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain.svg" /></a>
     </kbd>
@@ -113,6 +114,7 @@
       <br>
       <br>
         <a href="https://react.dev" title="React" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
+        <a href="https://tailwindcss.com" title="Tailwindcss" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" /></a>
     </kbd>
       <br>
     <kbd>
@@ -140,16 +142,15 @@
       <br>
       <br>
         <a href="https://www.gnu.org/software/bash/" title="Bash" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" /></a>
-        <a href="https://learn.microsoft.com/en-us/powershell/" title="powershell" target="_blank"><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" /></a>
+        <a href="https://learn.microsoft.com/en-us/powershell/" title="Powershell" target="_blank"><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" /></a>
     </kbd>
     <kbd>
-      <kbd>Text editor, IDE, Notebook</kbd>
+      <kbd>Testing Tools</kbd>
       <br>
       <br>
-      <a href="https://www.vim.org/" title="vim" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" /></a>
-      <a href="https://jupyter.org/" title="jupyter" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /></a>
-      <a href="https://code.visualstudio.com/" title="jupyter" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-      <a href="https://www.jetbrains.com/pycharm/" title="pycharm" target="_blank"><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" /></a>
+      <a href="https://docs.pytest.org/en/stable/" title="Pytest" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" /></a>
+      <a href="https://www.selenium.dev" title="Selenium" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" /></a>
+      <a href="https://www.postman.com" title="Postman" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
       </kbd>
 </p>
 
