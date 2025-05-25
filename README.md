@@ -1,9 +1,5 @@
 <div>
 <div align=center>
- <div style="background-color: #ffcc00; border-radius: 8px; padding: 15px;">
-  <h3>A Highlighted Box</h3>
-  <p>This content is inside a div with a different background and rounded corners.</p>
-</div>
 <h1>I'am Alvaro Reynier Arauz   👋</h1>
 </div>
 <div>
