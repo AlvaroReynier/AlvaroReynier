@@ -95,7 +95,6 @@
         <a href="https://www.gnu.org/software/bash/" title="Bash" target="_blank"><img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" /></a>
         <a href="https://learn.microsoft.com/en-us/powershell/" title="Powershell" target="_blank"><img width="55px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" /></a>
     </kbd>
-    <kbd>
       <br>
     <kbd>
       <kbd>Data Science & AI</kbd>
