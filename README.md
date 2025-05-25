@@ -80,7 +80,6 @@
       <kbd>Programming and Markup Languages</kbd>
       <br>
       <br>
-        <a href="https://julialang.org" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" /></a>
         <a href="https://www.python.org/" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
         <a href="https://www.r-project.org/" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" /></a>
         <a href="https://www.cprogramming.com/" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></a>
@@ -95,7 +94,6 @@
       <br>
       <br>
       <a href='https://www.tensorflow.org/' target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></a>
-      <a href="https://fluxml.ai/" target="_blank"><img width="40px" src="https://avatars.githubusercontent.com/u/26222520?s=280&v=4" /></a>
       <a href="https://numpy.org/" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /></a>
       <a href="https://pandas.pydata.org/" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" /></a>
       <a href="https://matplotlib.org/" target="_blank"><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" /></a>
@@ -116,14 +114,6 @@
       <br>
         <a href="https://react.dev" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
     </kbd>
-    <kbd>
-      <kbd>Database</kbd>
-      <br>
-      <br>
-      <a href="https://www.mysql.com/" target="_blank"><img width="40px" src="https://static.cdnlogo.com/logos/m/47/mysql.svg" /></a>
-      <a href="https://www.postgresql.org/" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a>
-      <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /></a>
-    </kbd>
       <br>
     <kbd>
       <kbd>System, Networking & Deployment</kbd>
@@ -134,6 +124,15 @@
       <a href="https://www.docker.com/" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /></a>
       <a href="https://railway.app/" target="_blank"><img width="40px" src="https://railway.app/brand/logo-light.svg" /></a> 
       <a href="https://cloud.google.com" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" /></a> 
+    </kbd>
+    <kbd>
+      <kbd>Database</kbd>
+      <br>
+      <br>
+      <a href="https://www.mysql.com/" target="_blank"><img width="40px" src="https://static.cdnlogo.com/logos/m/47/mysql.svg" /></a>
+      <a href="https://www.postgresql.org/" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a>
+      <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /></a>
+     <a href="https://www.mongodb.com" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /></a>
     </kbd>
     <kbd>
       <kbd>Terminal Scripts</kbd>
