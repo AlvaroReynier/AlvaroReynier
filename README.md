@@ -83,8 +83,8 @@
         <a href="https://www.python.org/" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
         <a href="https://www.r-project.org/" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" /></a>
         <a href="https://www.cprogramming.com/" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></a>
-        <a href="https://www.java.com/en/" target="_blank"><img width="40px" src="https://en.wikipedia.org/wiki/Java_(programming_language)#/media/File:Java_programming_language_logo.svg" /></a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img width="40px" src="https://es.wikipedia.org/wiki/JavaScript#/media/Archivo:Unofficial_JavaScript_logo_2.svg" /></a>
+        <a href="https://www.java.com/en/" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /></a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></a>
         <a href="https://html.com/html5/" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> </a>
         <a href="https://www.markdownguide.org/" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></a>
     </kbd>
@@ -106,8 +106,8 @@
       <br>
       <br>
         <a href="https://www.djangoproject.com/" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /></a> 
-        <a href="https://flask.palletsprojects.com/en/stable/" target="_blank"><img width="40px" src="https://en.wikipedia.org/wiki/Flask_(web_framework)#/media/File:Flask_logo.svg" /></a> 
-        <a href="https://fastapi.tiangolo.com" target="_blank"><img width="40px" src="https://en.wikipedia.org/wiki/FastAPI#/media/File:FastAPI_logo.svg" /></a>
+        <a href="https://flask.palletsprojects.com/en/stable/" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /></a> 
+        <a href="https://fastapi.tiangolo.com" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain.svg" /></a>
     </kbd>
     <kbd>
       <kbd>Frontend</kbd>
@@ -132,7 +132,7 @@
       <a href="https://git-scm.com/" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /></a>
       <a href="https://www.docker.com/" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /></a>
       <a href="https://railway.app/" target="_blank"><img width="40px" src="https://railway.app/brand/logo-light.svg" /></a> 
-      <a href="https://cloud.google.com" target="_blank"><img width="40px" src="https://en.wikipedia.org/wiki/Google_Cloud_Platform#/media/File:Google_Cloud_logo.svg" /></a> 
+      <a href="https://cloud.google.com" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" /></a> 
     </kbd>
     <kbd>
       <kbd>Terminal Scripts</kbd>
