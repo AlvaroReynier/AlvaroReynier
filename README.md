@@ -1,9 +1,9 @@
 <section background-color=#222>
 <div align=center>
-<h1>Hi, my name is Alvaro Arauz   👋</h1>
+<h1>I'am Alvaro Reynier Arauz   👋</h1>
 </div>
 <div>
- <h2>about me 🤵</h2>
+ <h2>About me 🤵</h2>
 <p>- Python: 3+ years of experience in automation scripts</p>
 <p>- Data analysis: 3 years of experience in cleaning with pandas and data visualization with libraries such
      as Plotly, Matplotlib and Seaborn, as well as with tools such as Power BI, Tableu and Looker
@@ -16,7 +16,7 @@
 <p>- Google Cloud: 8 months of BigQuery administration</p>
 </div>
 <div>
- <h2>projects 💻</h2>
+ <h2>Projects 💻</h2>
 <table>
 <thead>
   <tr>
