@@ -154,7 +154,7 @@
       <a href="https://www.postman.com" title="Postman" target="_blank"><img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
       </kbd>
       <kbd>
-      <kbd>CI/CD</kbd>
+      <kbd>CI and CD</kbd>
       <br>
       <br>
       <a href="https://docs.github.com/en/actions" title="Github actions" target="_blank"><img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" /></a>
