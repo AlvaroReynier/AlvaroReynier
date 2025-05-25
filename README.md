@@ -1,4 +1,4 @@
-<div style="background-color: #fc00ff">
+<div>
 <div align=center>
 <h1>I'am Alvaro Reynier Arauz   👋</h1>
 </div>
@@ -66,7 +66,7 @@
 
 <h2>Tools 🛠️ </h2>
 <p align=center>
-<kbd>
+<kbd style="background-color: #fc00ff">
       <kbd>Operating Sytem</kbd>
       <br>
       <br>
@@ -74,7 +74,7 @@
         <a href="https://pop.system76.com/" title="Pop!_OS" target="_blank"><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/46/Pop%21_OS_Icon.svg" /></a>
         <a href="https://ubuntu.com/" title="Ubuntu" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" /></a>
         <a href="https://fedora.org/" title="Fedora" target="_blank"><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" /></a>
-    </kbd>
+</kbd>
       <br>
     <kbd>
       <kbd>Programming and Markup Languages</kbd>
