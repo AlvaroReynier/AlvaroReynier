@@ -72,7 +72,7 @@
       <br>
         <a href="https://www.microsoft.com/en-us/windows" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></a>
         <a href="https://pop.system76.com/" target="_blank"><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/46/Pop%21_OS_Icon.svg" /></a>
-        <a href="https://ubuntu.com/" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></a>
+        <a href="https://ubuntu.com/" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" /></a>
         <a href="https://fedora.org/" target="_blank"><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" /></a>
     </kbd>
       <br>
@@ -132,7 +132,8 @@
       <a href="https://www.mysql.com/" target="_blank"><img width="40px" src="https://static.cdnlogo.com/logos/m/47/mysql.svg" /></a>
       <a href="https://www.postgresql.org/" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a>
       <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /></a>
-     <a href="https://www.mongodb.com" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /></a>
+      <a href="https://www.mongodb.com" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /></a>
+      <a href="https://redis.io" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain.svg" /></a>
     </kbd>
     <kbd>
       <kbd>Terminal Scripts</kbd>
