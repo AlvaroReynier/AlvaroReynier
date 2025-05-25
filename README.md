@@ -1,4 +1,4 @@
-<section bg_color=fc00ff>
+<div style="background-color: #fc00ff">
 <div align=center>
 <h1>I'am Alvaro Reynier Arauz   👋</h1>
 </div>
@@ -156,7 +156,7 @@
 </p>
 
 <br/>
-</section>
+</div>
 
 <!--
 **AlvaroReynier/AlvaroReynier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
