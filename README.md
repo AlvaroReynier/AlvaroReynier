@@ -1,3 +1,4 @@
+<section background-color=#222>
 <div align=center>
 <h1>Hi, my name is Alvaro Arauz   👋</h1>
 </div>
@@ -113,7 +114,7 @@
       <kbd>Frontend</kbd>
       <br>
       <br>
-        <a href="https://react.dev" target="_blank"><img width="40px" src="https://en.wikipedia.org/wiki/React_(software)#/media/File:React_Logo_SVG.svg" /></a>
+        <a href="https://react.dev" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
     </kbd>
     <kbd>
       <kbd>Database</kbd>
@@ -154,6 +155,7 @@
 </p>
 
 <br/>
+</section>
 
 <!--
 **AlvaroReynier/AlvaroReynier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
