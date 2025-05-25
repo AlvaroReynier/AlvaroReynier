@@ -93,12 +93,13 @@
       <kbd>Data Science & AI</kbd>
       <br>
       <br>
-      <a href='https://www.tensorflow.org/' title="tensorflow" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></a>
-      <a href="https://numpy.org/" title="numpy" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /></a>
-      <a href="https://pandas.pydata.org/" title="pandas" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" /></a>
-      <a href="https://matplotlib.org/" title="matplotlib" target="_blank"><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" /></a>
-      <a href="https://scikit-learn.org/stable/" title="scikit-learn" target="_blank"><img width="40px" src="https://logos-download.com/wp-content/uploads/2021/01/Scikit_Learn_Logo.png" /></a>
-      <a href="https://opencv.org/" title="opencv" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" /></a>
+      <a href='https://www.tensorflow.org/' title="Tensorflow" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></a>
+      <a href="https://pytorch.org" title="Pytorch" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg" /></a>
+      <a href="https://numpy.org/" title="Numpy" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /></a>
+      <a href="https://pandas.pydata.org/" title="Pandas" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" /></a>
+      <a href="https://matplotlib.org/" title="Matplotlib" target="_blank"><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" /></a>
+      <a href="https://scikit-learn.org/stable/" title="Scikit-learn" target="_blank"><img width="40px" src="https://logos-download.com/wp-content/uploads/2021/01/Scikit_Learn_Logo.png" /></a>
+      <a href="https://opencv.org/" title="Opencv" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" /></a>
     </kbd>
     <kbd>
       <kbd>Backend</kbd>
