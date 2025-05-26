@@ -46,12 +46,12 @@
   <tr>
     <td>
      
-  [![](https://github-readme-stats.vercel.app/api/pin/?username=AlvaroReynier&repo=Data_analysis-students_data&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/AlvaroReynier/Data_analysis-students_data)
+  [![](https://github-readme-stats.vercel.app/api/pin/?username=AlvaroReynier&repo=Data_analysis-students_data&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://alertaamber-en-panama.website)
      
    </td>
    <td>
      
-  [![](https://github-readme-stats.vercel.app/api/pin/?username=AlvaroReynier&repo=GYM_project&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://robertgym.com)
+  [![](https://github-readme-stats.vercel.app/api/pin/?username=AlvaroReynier&repo=GYM_project&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff&custom_title=My%20Awesome%20GYM%20Project)](https://robertgym.com)
      
    </td>
     
