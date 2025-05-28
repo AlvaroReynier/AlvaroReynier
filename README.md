@@ -51,7 +51,7 @@
    </td>
    <td>
     
-   [![My Awesome GYM Project](https://github-readme-stats.vercel.app/api/pin/?username=AlvaroReynier&repo=GYM_project&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff&custom_title=My%20Awesome%20GYM%20Project)](https://github.com/AlvaroReynier/GYM_project/)
+   [![My Awesome GYM Project](https://github-readme-stats.vercel.app/api/pin/?username=AlvaroReynier&repo=GYM_project/blob/main/README.md&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff&custom_title=My%20Awesome%20GYM%20Project)](https://github.com/AlvaroReynier/GYM_project/)
      
    </td>
     
