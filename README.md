@@ -51,7 +51,7 @@
    </td>
    <td>
     
-   [![](https://github-readme-stats.vercel.app/api/pin/?username=AlvaroReynier&repo=GYM_project&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff&show_owner=true)](https://robertgym.com)
+   [![](https://github-readme-stats.vercel.app/api/pin/?username=AlvaroReynier&repo=GYM_project&bg_color=45,fc00ff,00dbde&title_color=222&text_color=222&show_owner=true)](https://robertgym.com)
      
    </td>
     
