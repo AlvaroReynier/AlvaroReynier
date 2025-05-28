@@ -28,12 +28,12 @@
   <tr>
     <td>
      
-   [![](https://github-readme-stats.vercel.app/api/pin/?username=AlvaroReynier&repo=Process_Natural_Language_Airport_sentiments&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/AlvaroReynier/Process_Natural_Language_Airport_sentiments)
+   [![](https://github-readme-stats.vercel.app/api/pin/?username=AlvaroReynier&repo=Process_Natural_Language_Airport_sentiments&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/AlvaroReynier/Process_Natural_Language_Airport_sentiments)
      
    </td>
     <td>
      
-  [![](https://github-readme-stats.vercel.app/api/pin/?username=AlvaroReynier&repo=Chatbot-mesero&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/AlvaroReynier/Chatbot-mesero)
+  [![](https://github-readme-stats.vercel.app/api/pin/?username=AlvaroReynier&repo=Chatbot-mesero&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/AlvaroReynier/Chatbot-mesero)
      
    </td> 
   </tr>
@@ -46,13 +46,12 @@
   <tr>
     <td>
      
-  [![](https://github-readme-stats.vercel.app/api/pin/?username=AlvaroReynier&repo=project-Alerta-Amber-&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://alertaamber-en-panama.website)
+  [![](https://github-readme-stats.vercel.app/api/pin/?username=AlvaroReynier&repo=project-Alerta-Amber-&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://alertaamber-en-panama.website)
      
    </td>
    <td>
-   ![Repo Card](https://github-readme-stats.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats&theme=dark&show_owner=true)
     
-   [![](https://github-readme-stats.vercel.app/api/pin/?username=AlvaroReynier&repo=GYM_project&bg_color=45,fc00ff,00dbde&show_owner=true)](https://github.com/AlvaroReynier/GYM_project/)
+   [![](https://github-readme-stats.vercel.app/api/pin/?username=AlvaroReynier&repo=GYM_project&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff&show_owner=true)](https://robertgym.com)
      
    </td>
     
