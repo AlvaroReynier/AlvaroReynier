@@ -46,7 +46,7 @@
   <tr>
     <td>
      
-  [![](https://github-readme-stats.vercel.app/api/pin/?username=AlvaroReynier&repo=project-Alerta-Amber-&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://alertaamber-en-panama.website)
+  [![](https://github-readme-stats.vercel.app/api/pin/?username=AlvaroReynier&repo=project-Alerta-Amber-&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff&show_owner=true)](https://alertaamber-en-panama.website)
      
    </td>
    <td>
