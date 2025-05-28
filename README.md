@@ -52,6 +52,7 @@
    <td>
      
   [![My Awesome GYM Project](https://github-readme-stats.vercel.app/api/pin/?username=AlvaroReynier&repo=GYM_project&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff&custom_title=My%20Awesome%20GYM%20Project)](https://robertgym.com)
+  Arquitecture: Backend: Django, Frontend: html and css, Database: Postgresql ,Cache: Redis
      
    </td>
     
